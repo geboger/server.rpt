@@ -1,0 +1,31 @@
+Sämtliche Hive-Logs von heute:
+[spoiler]
+2013-09-25 07:18:46 HiveExt: [Information] HiveExt f20dbd5b6625
+2013-09-25
+07:18:46 Database: [Information] Connected to MySQL database
+localhost:3306/dayz_epoch client ver: 5.5.28 server ver: 5.5.32
+2013-09-25
+07:18:46 Database: [Information] Connected to MySQL database
+localhost:3306/dayz_epoch client ver: 5.5.28 server ver: 5.5.32
+2013-09-25 07:18:46 HiveExt: [Information] Method: 103 Params: 119275142:any:2:
+2013-09-25 07:18:46 HiveExt: [Error] Error executing |CHILD:103:119275142:any:2:|
+2013-09-25 07:21:16 HiveExt: [Information] Method: 103 Params: 119275142:any:2:
+2013-09-25 07:21:16 HiveExt: [Error] Error executing |CHILD:103:119275142:any:2:|
+2013-09-25 07:23:59 HiveExt: [Information] Method: 103 Params: 119275142:any:2:
+2013-09-25 07:23:59 HiveExt: [Error] Error executing |CHILD:103:119275142:any:2:|
+2013-09-25 07:27:11 HiveExt: [Information] Method: 103 Params: 125599750:any:2:
+2013-09-25 07:27:11 HiveExt: [Error] Error executing |CHILD:103:125599750:any:2:|
+2013-09-25 07:28:14 HiveExt: [Information] Method: 103 Params: 125599750:any:2:
+2013-09-25 07:28:14 HiveExt: [Error] Error executing |CHILD:103:125599750:any:2:|
+2013-09-25 07:31:56 HiveExt: [Information] Method: 103 Params: 125599750:any:2:
+2013-09-25 07:31:56 HiveExt: [Error] Error executing |CHILD:103:125599750:any:2:|
+2013-09-25 07:34:17 HiveExt: [Information] Method: 103 Params: 119275142:any:2:
+2013-09-25 07:34:17 HiveExt: [Error] Error executing |CHILD:103:119275142:any:2:|
+2013-09-25 07:34:24 HiveExt: [Information] Method: 103 Params: 125599750:any:2:
+2013-09-25 07:34:24 HiveExt: [Error] Error executing |CHILD:103:125599750:any:2:|
+2013-09-25 07:35:53 HiveExt: [Information] Method: 103 Params: 124031878:any:2:
+2013-09-25 07:35:53 HiveExt: [Error] Error executing |CHILD:103:124031878:any:2:|
+2013-09-25 07:54:10 HiveExt: [Information] Method: 103 Params: 125599750:any:2:
+2013-09-25 07:54:10 HiveExt: [Error] Error executing |CHILD:103:125599750:any:2:|
+2013-09-25 07:57:41 HiveExt: [Information] Method: 103 Params: 125599750:any:2:
+2013-09-25 07:57:41 HiveExt: [Error] Error executing |CHILD:103:125599750:any:2:|[/spoiler]
